@@ -1,5 +1,5 @@
 # Data Science:Hands-on Covid-19 Data Analysis & Visualization
-https://www.udemy.com/course/hands-on-covid-19-data-visualization-using-plotly-express/learn/lecture/22227940#overview
+https://www.udemy.com/course/hands-on-covid-19-data-visualization-using-plotly-express/
 
 ### This is a Practical Hands-on Course hence for the best learning experience we recommend you to type the codes in your own notebook following the lessons carefully. No Unnecessary lectures. No unnecessary details.
 
