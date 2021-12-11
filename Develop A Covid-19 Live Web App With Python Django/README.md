@@ -10,6 +10,8 @@ we will deal with programming as well as page design too, although you should kn
 
 caution : dont join to this course if you are new to python and bootstrap.
 
+https://www.udemy.com/course/develop-a-covid-19-live-web-app-with-python-django/
+
 ## What you’ll learn
   - Django
   - How To Use API's In Your Django App
