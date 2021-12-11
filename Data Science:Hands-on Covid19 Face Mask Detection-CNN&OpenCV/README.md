@@ -1,4 +1,5 @@
 # Data Science:Hands-on Covid19 Face Mask Detection-CNN&OpenCV
+https://www.udemy.com/course/drone-programming-with-python-face-recognition-tracking/
 
 
 This is a hands-on Data Science guided project on Covid-19 Face Mask Detection using Deep Learning and Computer Vision concepts. We will build a Convolutional Neural Network classifier to classify people based on whether they are wearing masks or not and we will make use of OpenCV to detect human faces on the video streams. 
