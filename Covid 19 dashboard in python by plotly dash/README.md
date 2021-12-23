@@ -27,3 +27,4 @@ Bubble chart
 Indicators
 
 Scatter map box map chart and data table.
+
