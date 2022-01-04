@@ -5,7 +5,7 @@
 
 ## Description
 • This Repository consists of course material and hand-on projects on Covid19-projects done by Me.\
-• Datasets and related codes are provided in each of the folders above\\
+• Datasets and related codes are provided in each of the folders above\
 • Visit each folder to access the Projects in detail.
 
 
