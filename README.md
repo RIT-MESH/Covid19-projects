@@ -16,4 +16,4 @@
 ## Don't forget to ⭐ the repository, if it helped you in anyway.
 
 ### Repo Stats:
-[![GitHub](https://img.shields.io/github/followers/RIT-MESH?style=social)](https://github.com/RIT-MESH)  &ensp;  [![GitHub](https://img.shields.io/github/stars/RIT-MESH/Covid19-projects?style=social)](https://github.com/RIT-MESH/Covid19-projects)  &ensp;  [![GitHub](https://img.shields.io/github/forks/RIT-MESH/Covid19-projects?style=social)](https://github.com/RIT-MESH/Covid19-projects)
+[![GitHub](https://img.shields.io/github/followers/RIT-MESH?style=social)](https://github.com/RIT-MESH)  &ensp;  [![GitHub](https://img.shields.io/github/stars/RIT-MESH/Covid19-projects?style=social)](https://github.com/RIT-MESH/Covid19-projects)  &ensp;  [![GitHub](https://img.shields.io/github/forks/RIT-MESH/Covid19-projects?style=social)](https://github.com/RIT-MESH/Covid19-projects)  &ensp; [![GitHub](https://img.shields.io/github/watchers/RIT-MESH/Covid19-projects?style=social)](https://github.com/RIT-MESH/Covid19-projects)
